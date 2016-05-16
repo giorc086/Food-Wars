@@ -249,10 +249,10 @@
 		466639F11CEA32D00068A4F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				INFOPLIST_FILE = "Food Wars/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Cecilia-Giorcelli.Food-Wars";
+				PRODUCT_BUNDLE_IDENTIFIER = "Cecilia-Giorcelli.Plain-Old-Notes-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -260,10 +260,10 @@
 		466639F21CEA32D00068A4F4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				INFOPLIST_FILE = "Food Wars/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Cecilia-Giorcelli.Food-Wars";
+				PRODUCT_BUNDLE_IDENTIFIER = "Cecilia-Giorcelli.Plain-Old-Notes-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
